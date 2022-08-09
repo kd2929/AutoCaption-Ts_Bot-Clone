@@ -43,7 +43,7 @@ You can deploy the bot using heroku
  
 - 👇 Press the deploy button.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ts-bots/AutoCaption-Ts_Bot-Clone)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kd2929/AutoCaption-Ts_Bot-Clone)
 
 ## Please note
 
@@ -55,7 +55,7 @@ Through [@Ts_Bots](https://telegram.me/Ts_bots) or you can contact me directly.
 
 ## My Channel
 
-<b>[@Ts_Bots](https://telegram.me/ts_bots)</b>
+<b>[@captionedit29_bot](http://t.me/captionedit29_bot)</b>
 
 
 ### Thanks to
